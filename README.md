@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Prakash Choudhary</h1>
 
-<!--
-**prakash-k-choudhary/prakash-k-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer • MERN Stack Developer • JavaScript Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🚀 Building scalable web applications & interactive digital experiences
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+💻 Passionate about building modern full-stack web applications  
+⚡ Focused on JavaScript, React, Node.js & scalable backend systems  
+🎯 Exploring System Design, Performance Optimization & Clean Architecture  
+🌱 Constantly learning and building impactful projects  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building scalable MERN applications
+- 🧠 Improving DSA & System Design
+- 🌐 Creating modern UI/UX experiences
+- ⚡ Writing clean and maintainable code
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/prakash-k-choudhary)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ “Turning ideas into scalable and interactive web experiences.” ✨
+</p>
