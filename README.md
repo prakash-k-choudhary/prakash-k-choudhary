@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Prakash Choudhary</h1>
 
 <h3 align="center">
-Software Engineer • MERN Stack Developer • JavaScript Enthusiast
+Software Engineer • MERN Stack Developer
 </h3>
 
 <p align="center">
@@ -50,26 +50,18 @@ Software Engineer • MERN Stack Developer • JavaScript Enthusiast
 ## 🌍 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/prakash-k-choudhary" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="[https://leetcode.com/" target="_blank](https://leetcode.com/u/prakash-k-choudhary/)">
-  <img src="https://cdn.simpleicons.org/leetcode" height="48" width="48"/>
-</a>
-
-<a href="mailto:profile.prakashchoudhary@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/prakash-k-choudhary/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://leetcode.com/u/prakash-k-choudhary/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="48" width="48"/>
+  </a>
 </p>
 
----
 
-## ⚡ Fun Fact
 
-💡 I love turning complex problems into simple, beautiful and intuitive solutions.
+
 
 ---
 
