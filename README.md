@@ -49,11 +49,27 @@ Software Engineer • MERN Stack Developer • JavaScript Enthusiast
 
 ## 🌍 Connect With Me
 
-<p>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/prakash-k-choudhary)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/prakash-k-choudhary" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="[https://leetcode.com/" target="_blank](https://leetcode.com/u/prakash-k-choudhary/)">
+  <img src="https://cdn.simpleicons.org/leetcode" height="48" width="48"/>
+</a>
+
+<a href="mailto:profile.prakashchoudhary@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love turning complex problems into simple, beautiful and intuitive solutions.
 
 ---
 
